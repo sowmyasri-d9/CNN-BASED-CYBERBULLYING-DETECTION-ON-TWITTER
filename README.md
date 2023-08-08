@@ -1,1 +1,2 @@
-# CNN-BASED-CYBERBULLYING-DETECTION-ON-TWITTER
+# Cyberbullying-Detection
+Cyber Bullying Detection in Twitter using CNN and GloVE
